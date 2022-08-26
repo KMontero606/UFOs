@@ -19,6 +19,7 @@ The search criteria has been modified so users may search for sightings based on
 ![image](https://user-images.githubusercontent.com/106962921/186905129-73469fd1-70a8-4646-aa41-e64ca3da9d74.png)
 
 ## Summary:
+**__Deliverable 2: A written report on the UFO analysis__**
 - One drawback noted for the new design is that the search parameters are specific and not intuitive. One specific parameter observed is that it is case sensitive. If a search is made for a city "Sacramento" or "sacramento ", the table would not procure any information:
 ![image](https://user-images.githubusercontent.com/106962921/186909888-eecbe6d3-eac6-42aa-9146-b96e7a2703e6.png)
 ![image](https://user-images.githubusercontent.com/106962921/186910069-15710d8e-1a4e-46d9-88bd-1bc217339858.png)
